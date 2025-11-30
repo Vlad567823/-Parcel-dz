@@ -10,13 +10,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vlad567823/-Parcel-dz.git"
+    "url": "git+ https://vlad567823.github.io/Parcel/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Vlad567823/-Parcel-dz/issues"
+    "url": " https://vlad567823.github.io/Parcel/issues"
   },
   "homepage": "https://Vlad567823.github.io/-Parcel-dz",
   "devDependencies": {
