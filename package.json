@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html",
+    "build": "parcel build src/index.html --public-url ./",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
@@ -21,6 +21,6 @@
   "homepage": "https://Vlad567823.github.io/-Parcel-dz",
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "parcel": "^2.16.1"
+    "parcel": "^2.16.3"
   }
 }
